@@ -1,6 +1,7 @@
 ## Download
 
-[![Download Adept+](https://img.shields.io/badge/Download-Adept%2B%20v1.1.2-brightgreen?style=for-the-badge)]([https://github.com/Fladab/AdeptPlus/releases/download/1.1.2/Adept+v1.1.2.rar))
+[![Download Adept+](https://img.shields.io/badge/Download-Adept%2B%20v1.1.2-brightgreen?style=for-the-badge)](https://github.com/Fladab/AdeptPlus/releases/download/1.1.2/Adept+v1.1.2.rar)
+
 
 # Adept+
 
